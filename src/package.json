@@ -9,7 +9,7 @@
     "build": "webpack"
   },
   "keywords": [],
-  "author": "",
+  "author": "Israel Morales",
   "license": "ISC",
   "devDependencies": {
     "babel-loader": "^7.1.4",
